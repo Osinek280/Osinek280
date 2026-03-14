@@ -2,7 +2,7 @@
 
 ### Fulltack developer
 
-- 📖 Present task: Managing the Open Source reservation system project with frontend, backend, and designer teams.
+- 📖 Present task: Managing the Open Source real-time whiteboard app project with frontend & backend.
 - 🚀 Hobbies: Passionate about 📸 photography.
 - 🏗️ Focus: Developing skills in system architecture and code quality.
 
