@@ -3,7 +3,7 @@
 ### Fulltack developer
 
 - 📖 Present task: Managing the Open Source real-time whiteboard app project with frontend & backend.
-- 🚀 Hobbies: Passionate about 📸 photography.
+- 🚀 Hobbies: Passionate about 🏂 snowboarding and mountains 🏔️.
 - 🏗️ Focus: Developing skills in system architecture and code quality.
 
 
