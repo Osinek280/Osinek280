@@ -1,5 +1,15 @@
-## Hi there 👋
+280## Hi there, I'm Szymon 👋
 
+### Fulltack developer
+
+- 📖 Present task: Managing the Open Source reservation system project with frontend, backend, and designer teams.
+- 🚀 Hobbies: Passionate about 📸 photography.
+- 🏗️ Focus: Developing skills in system architecture and code quality.
+
+
+### 🔭 Current Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Osinek280&repo=miro-clone)]([https://github.com/Dance-reservation-system/Reservation-system](https://github.com/Osinek280/miro-clone))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miro-backend&repo=miro-backend)]([https://github.com/Dance-reservation-system/reservation-system-web](https://github.com/Osinek280/miro-backend))
 <!--
 **Osinek280/Osinek280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
